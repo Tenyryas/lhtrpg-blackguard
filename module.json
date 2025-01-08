@@ -1,0 +1,40 @@
+{
+  "id": "lhtrpg-blackguard",
+  "title": "lhtrpg-blackguard",
+  "description": "<p>A character class for LHTRPG</p>",
+  "url": "https://github.com/Tenyryas/lhtrpg-blackguard",
+  "authors": [
+    {
+      "name": "Kyane",
+      "url": "https://github.com/Tenyryas",
+      "discord": "Kyane#8654",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "scripts/init.mjs"
+  ],
+  "styles": [
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    },
+    {
+        "lang": "fr",
+        "name": "Français",
+        "path": "lang/fr.json",
+        "flags": {}
+      }
+  ],
+  "manifest": "",
+  "download": ""
+}
